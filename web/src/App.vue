@@ -7,6 +7,7 @@
       t2222
       <router-link to="/about">About</router-link>
       t2修改,1
+      eiieieiei
     </div>
     <router-view/>
     这是t1的修改，二次修改
