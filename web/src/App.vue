@@ -3,6 +3,7 @@
     这是t2的更改，二次更改
     <div id="nav">
       <router-link to="/">Home</router-link> |
+      t2222
       <router-link to="/about">About</router-link>
       t2修改
     </div>
