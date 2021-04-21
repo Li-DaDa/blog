@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    这是t2的更改
+    这是t2的更改，二次更改
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
