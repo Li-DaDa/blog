@@ -2,9 +2,10 @@
   <div id="app">
     这是t2的更改，二次更改
     <div id="nav">
+      t1修改
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-      t2修改
+      t2修改,1
     </div>
     <router-view/>
     这是t1的修改，二次修改
