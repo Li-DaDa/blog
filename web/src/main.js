@@ -12,3 +12,6 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
+
+// 这是t2修改
+// t2又修改了
