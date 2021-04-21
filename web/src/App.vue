@@ -4,6 +4,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      t2修改
     </div>
     <router-view/>
     这是t1的修改，二次修改
